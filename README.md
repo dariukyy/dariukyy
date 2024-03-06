@@ -1,6 +1,6 @@
 
 
-```react
+```ruby
 type Person = {
   name: string;
   age?: number;
