@@ -32,6 +32,6 @@ const darius: Person = {
     databases: ["Firebase", "Supabase"],
     animations: ["Framer Motion"]
   },
- previousExperience: "Former infantry soldier for 5 years."
+ previousExperience: "Former infantry soldier for 5 years"
 };
 ```
