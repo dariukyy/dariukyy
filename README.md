@@ -2,12 +2,12 @@
   
 
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+My+name+is+Darius;I'm+a+self-taught+Frontend+Developer" alt="Typing SVG">
 </p>
 <br>
 
-<p align="center">
+<p align="left">
   
   <img src="https://komarev.com/ghpvc/?username=your-github-dariukyy&color=blue" alt="Profile Views Counter">
 
@@ -15,7 +15,7 @@
   
 </p>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/darius-parfijanovičius-705290244" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
