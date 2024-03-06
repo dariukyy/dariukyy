@@ -7,6 +7,7 @@ type Person = {
   interests: string[];
   skills: {
     languages: string[];
+    frameworks: string[];
     frontendLibraries: string[];
     styling: string[];
     testing: string[];
@@ -25,6 +26,7 @@ const darius: Person = {
   interests: ["Front End Development", "Football"],
   skills: {
     languages: ["TypeScript", "JavaScript"],
+    frameworks: ['Next.js"],
     frontendLibraries: ["React", "Redux", "Redux Toolkit", "React Query", "React Router"],
     styling: ["Styled Components", "Tailwind CSS", "CSS Modules"],
     testing: ["Jest", "React Testing Library"],
