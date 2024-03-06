@@ -1,6 +1,6 @@
 
 
-```typescript
+```react
 type Person = {
   name: string;
   age?: number;
