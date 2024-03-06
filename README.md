@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Darius+I'm+a+Self-taught+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Darius;I'm+a+Self-taught+Frontend+Developer)](https://git.io/typing-svg)
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-dariukyy&color=blue)
