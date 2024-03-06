@@ -4,7 +4,7 @@
 type Person = {
   name: string;
   age?: number;
-  occupation?: string;
+  role?: string;
   interests: string[];
   skills: {
     languages: string[];
@@ -21,13 +21,13 @@ type Person = {
 const darius: Person = {
   name: "Darius",
   age: 26,
-  occupation: "Frontend Developer",
+  role: "Frontend Developer",
   interests: ["Front End Development", "Football"],
   skills: {
-    languages: ["HTML", "CSS", "TypeScript", "JavaScript"],
+    languages: ["TypeScript", "JavaScript"],
     frameworks: ["React", "Redux", "React Query", "React Router"],
-    styling: ["Styled Components", "Tailwind CSS", "Framer Motion"],
-    testing: ["Jest"],
+    styling: ["Styled Components", "Tailwind CSS", "CSS Modules", "Framer Motion"],
+    testing: ["Jest", "React Testing Library"],
     versionControl: ["Git"],
     databases: ["Firebase", "Supabase", "Firestore"],
     other: []
