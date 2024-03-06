@@ -1,6 +1,6 @@
 
 
-```c#
+```javascript
 type Person = {
   name: string;
   age?: number;
