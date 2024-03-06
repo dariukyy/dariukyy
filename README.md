@@ -13,11 +13,6 @@
     <img src="https://img.shields.io/badge/Generator%20-%235c86fa.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p> 
-<p align="center"> 
-  <a href="README.md">English</a> 
-  ·
-  <a href="/docs/README_kr.md">한국어</a> 
-</p>
 <br/>
   
 
