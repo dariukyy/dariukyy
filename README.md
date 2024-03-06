@@ -21,8 +21,8 @@
   <a href="https://www.yourwebsite.com">
     <img src="https://img.shields.io/badge/-Website-brightgreen?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website" />
   </a>
-<br/>
 </div>
+<br><br><br><br>
 
 ```typescript
 type Person = {
