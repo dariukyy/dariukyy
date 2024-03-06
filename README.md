@@ -7,7 +7,11 @@
 </p>
 
 <p align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=your-github-dariukyy&color=blue" alt="Profile Views Counter">
+
+
+  
 </p>
 
 ```typescript
