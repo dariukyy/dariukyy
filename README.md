@@ -4,7 +4,13 @@
   
 ![](https://komarev.com/ghpvc/?username=your-github-dariukyy&color=blue)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+My+name+is+Darius;I'm+a+self-taught+Frontend+Developer" alt="Typing SVG">
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-dariukyy&color=blue" alt="Profile Views Counter">
+</p>
 
 ```typescript
 type Person = {
