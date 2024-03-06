@@ -13,6 +13,7 @@ type Person = {
     databases: string[];
     animations: string[];
   };
+previousExperience?: string;
 };
 
 const darius: Person = {
@@ -28,6 +29,7 @@ const darius: Person = {
     versionControl: ["Git", "Github"],
     databases: ["Firebase", "Supabase"],
     animations: ["Framer Motion"]
-  }
+  },
+ previousExperience: "Former infantry soldier for 5 years."
 };
 ```
