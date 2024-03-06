@@ -14,10 +14,6 @@
   
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-
-[![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat-square&logo=Google-Chrome&logoColor=white)](https://www.yourwebsite.com)
-
 <div align="center">
   <a href="https://www.linkedin.com/in/your-profile/" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
