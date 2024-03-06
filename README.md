@@ -14,7 +14,10 @@
   
 </p>
 
-[Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+
+[![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat-square&logo=Google-Chrome&logoColor=white)](https://www.yourwebsite.com)
+
 
 
 ```typescript
