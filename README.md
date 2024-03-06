@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=your-github-dariukyy&color=green)
+
+
 ```typescript
 type Person = {
   name: string;
