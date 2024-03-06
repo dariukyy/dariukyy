@@ -1,7 +1,7 @@
 
 
-```typescript javascript
-interface Person {
+```typescript
+type Person = {
   name: string;
   age?: number;
   occupation?: string;
@@ -16,6 +16,7 @@ interface Person {
     other: string[];
   };
 }
+
 
 const darius: Person = {
   name: "Darius",
