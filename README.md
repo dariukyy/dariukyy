@@ -2,6 +2,7 @@
 type Person = {
   name: string;
   age?: number;
+  location: string;
   role?: string;
   interests: string[];
   skills: {
@@ -19,6 +20,7 @@ previousExperience?: string;
 const darius: Person = {
   name: "Darius",
   age: 26,
+  location: "Vilnius, Lithuania",
   role: "Frontend Developer",
   interests: ["Front End Development", "Football"],
   skills: {
