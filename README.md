@@ -1,6 +1,6 @@
 
 
-```typescript
+```typescript javascript
 interface Person {
   name: string;
   age?: number;
