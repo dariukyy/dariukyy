@@ -6,7 +6,7 @@ type Person = {
   interests: string[];
   skills: {
     languages: string[];
-    frontendLibraries: string[]; // Renamed from "frameworks" to "frontendLibraries"
+    frontendLibraries: string[];
     styling: string[];
     testing: string[];
     versionControl: string[];
@@ -22,8 +22,8 @@ const darius: Person = {
   interests: ["Front End Development", "Football"],
   skills: {
     languages: ["TypeScript", "JavaScript"],
-    frontendLibraries: ["React", "Redux", "Redux Toolkit", "React Query", "React Router"], // Added a comma after "Redux Toolkit"
-    styling: ["Styled Components", "Tailwind CSS", "CSS Modules", "Framer Motion"], // Removed extra comma after "Framer Motion"
+    frontendLibraries: ["React", "Redux", "Redux Toolkit", "React Query", "React Router"],
+    styling: ["Styled Components", "Tailwind CSS", "CSS Modules"],
     testing: ["Jest", "React Testing Library"],
     versionControl: ["Git", "Github"],
     databases: ["Firebase", "Supabase"],
