@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-dariukyy&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-dariukyy&color=blue)
 
 
 ```typescript
