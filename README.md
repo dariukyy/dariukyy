@@ -14,6 +14,9 @@
   
 </p>
 
+[Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+
+
 ```typescript
 type Person = {
   name: string;
