@@ -18,7 +18,14 @@
 
 [![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat-square&logo=Google-Chrome&logoColor=white)](https://www.yourwebsite.com)
 
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-profile/" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.yourwebsite.com">
+    <img src="https://img.shields.io/badge/-Website-brightgreen?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website" />
+  </a>
+</div>
 
 ```typescript
 type Person = {
