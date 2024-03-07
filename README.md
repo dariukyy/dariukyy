@@ -7,7 +7,7 @@
 </p>
 <br>
 
-<p align="left">
+<p align="center">
   
   <img src="https://komarev.com/ghpvc/?username=your-github-dariukyy&color=blue" alt="Profile Views Counter">
 
@@ -15,7 +15,7 @@
   
 </p>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/darius-parfijanovičius-705290244" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
