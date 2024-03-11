@@ -48,7 +48,7 @@ type Person = {
 
 const darius: Person = {
   name: "Darius",
-  age: 26,
+  age: 26 ,
   location: "Vilnius, Lithuania",
   role: "Frontend Developer",
   interests: ["Front End Development", "Football"],
