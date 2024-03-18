@@ -43,7 +43,7 @@ type Person = {
     databases: string[];
     animations: string[];
   };
-  previousExperience?: string;
+  previousExperience: string;
 };
 
 const darius: Person = {
