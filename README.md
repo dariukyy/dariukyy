@@ -60,7 +60,7 @@ const darius: Person = {
     testing: ["Jest", "React Testing Library"],
     versionControl: ["Git", "Github"],
     databases: ["Firebase", "Supabase"],
-    animations: ["Framer Motion"]
+    animations: ['Framer Motion"]
   },
   previousExperience: "Former infantry soldier for 5 years"
 };
