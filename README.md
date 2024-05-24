@@ -59,7 +59,7 @@ const darius: Person = {
     styling: ["Styled Components", "Tailwind CSS", "CSS Modules"],
     testing: ["Jest", "React Testing Library"],
     versionControl: ["Git", "Github"],
-    databases: ["Firebase", "Supabase"]
+    databases: ["Firebase", "Supabase"],
     animations: ['Framer Motion"],
   },
   previousExperience: "Former infantry soldier for 5 years"
