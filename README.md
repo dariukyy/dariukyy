@@ -53,7 +53,7 @@ const darius: Person = {
   role: "Frontend Developer",
   interests: ["Front End Development", "Football"],
   skills: {
-    languages: ["TypeScript", "JavaScript"],
+    languages: ["TypeScript" "JavaScript"],
     frameworks: ["Next.js"],
     frontendLibraries: ["React", "Redux", "Redux Toolkit", "React Query", "React Router"],
     styling: ["Styled Components", "Tailwind CSS", "CSS Modules"],
